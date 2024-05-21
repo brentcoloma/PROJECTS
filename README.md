@@ -1,6 +1,6 @@
 # PROJECTS #
 
-## Case Study: Cyclistic Insights ##
+## Case Study: Cyclistic Insights: SQL/Microsoft Excel/Microsoft Powerpoint ##
 January 2024  
 [Cyclistic Insights](https://docs.google.com/presentation/d/1jn-D-BHczogl_TVxDK5VNjqyb1Ibp4QLTJUMswvrYzQ/edit?usp=sharing)
 * Personal Case Study from Coursera Google Data Analytics Certificate.
@@ -9,7 +9,7 @@ January 2024
 * Share insights learned through data visualization to support claims from big data.
 
 
-## Clothing Website: HTML/CSS ##
+## Clothing Website: Java/HTML/CSS ##
 April 2023 - May 2023  
 [North's Brightest Star](https://brentcoloma14.github.io/home/)
 * Built a clothing website called “North’s Brightest Star. 
